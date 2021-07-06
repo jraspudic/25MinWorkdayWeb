@@ -43,8 +43,6 @@ featureTabs.forEach((tab) => {
     });
 
     featureDetailTabs.forEach((detailTab, index) => {
-      console.log("fiture details");
-      console.log(detailTab);
       if (index == 0) {
         detailTab.classList.add("active");
         var target = document.querySelector(detailTab.dataset.detailTabTarget);
