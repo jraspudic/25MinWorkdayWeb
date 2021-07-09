@@ -454,6 +454,7 @@ h5 {
   max-width: 840px;
   width: 100%;
   display: none;
+  border-radius: 12px;
 }
 
 .feature-image-container img.active {
@@ -501,6 +502,7 @@ h5 {
 }
 .feature-tab-img-mobile img {
   max-width: 100%;
+  border-radius: 12px;
 }
 
 .feature-tab-item-mobile {
